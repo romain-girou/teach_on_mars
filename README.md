@@ -19,17 +19,17 @@ https://www.figma.com/file/rwi8v7dlTF0uHptuG9uKzG/Test-technique
 
 Here is a sample data returned by this API:
 
-JavaScript
+'''javaScript
 [
-{
-"id": "64351eb7e34c4",
-"type": 2,
-"title": "No-Brainer",
-"picture": {
-    "width": 1200,
-    "height": 800,
-    "url": "https://picsum.photos/1200/800"
-},
+    {
+        "id": "64351eb7e34c4",
+        "type": 2,
+        "title": "No-Brainer",
+        "picture": {
+            "width": 1200,
+            "height": 800,
+            "url": "https://picsum.photos/1200/800"
+        },
         "author": "Romain Briaux"
     },
     {
@@ -49,6 +49,8 @@ blandit, quam ut tristique vulputate, odio felis eleifend eros,
 at varius orci sapien non risus. Cras at leo eget nisi suscipit
 congue. Aliquam commodo pretium nisl, quis mollis dui eleifend
 et. Cras sed pulvinar urna.\n\nSed at sem molestie, luctus urna
-in, placerat libero."
-} ]
+in, placerat libero."   
+    }
+]
+'''
 
