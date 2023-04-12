@@ -47,20 +47,20 @@ Here is a sample data returned by this API:
 ## Instructions 🤌
 
 Your app **MUST**:
-- Use the Very Good Core template<br />
-- Use the Bloc package<br />
-- Use the Freezed package<br />
-- Use Material 3 theming capabilities<br />
-- Show a loader while requesting the API<br />
-- Show an appropriate error message if the API fails<br />
-- Go the the detail page when a widget is tapped<br />
+- Use the Very Good Core template ✅<br />
+- Use the Bloc package ✅<br />
+- Use the Freezed package ✅<br />
+- Use Material 3 theming capabilities ✅<br />
+- Show a loader while requesting the API ✅<br />
+- Show an appropriate error message if the API fails ✅<br />
+- Go the the detail page when a widget is tapped ✅<br />
 
 Your app **MAY** (it’s just bonus points, make none of them, only a few or all. You can even add anything else that it’s not mentioned 😉:<br />
 - Have unit tests<br />
-- Be responsive and work on a web browser<br />
-- Use the internationalization provided by Very Good Core (translate the title of the app bar and/or any other text that’s coming from the app and not from the API)<br />
-- Make the list an infinite scroll (just call again the api when you arrived at bottom)<br />
-- Use animations<br />
-- Use a cache library for the images<br />
-- Have a splash screen<br />
-- Have a settings button to switch between light and dark mode<br />
+- Be responsive and work on a web browser ✅<br />
+- Use the internationalization provided by Very Good Core (translate the title of the app bar and/or any other text that’s coming from the app and not from the API) ✅<br />
+- Make the list an infinite scroll (just call again the api when you arrived at bottom) ✅<br />
+- Use animations ✅<br />
+- Use a cache library for the images ✅<br />
+- Have a splash screen ✅<br />
+- Have a settings button to switch between light and dark mode ✅<br />
