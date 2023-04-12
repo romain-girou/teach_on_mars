@@ -9,6 +9,8 @@ There are two kinds of widgets :<br />
 
 ## Photos 📸
 
+<img src="/assets/readme.png" alt="Alt text" title="Pictures App">
+
 
 https://www.figma.com/file/rwi8v7dlTF0uHptuG9uKzG/Test-technique
 
