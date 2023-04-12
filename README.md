@@ -19,7 +19,7 @@ https://www.figma.com/file/rwi8v7dlTF0uHptuG9uKzG/Test-technique
 
 Here is a sample data returned by this API:
 
-'''javaScript
+```JSON
 [
     {
         "id": "64351eb7e34c4",
@@ -52,5 +52,4 @@ et. Cras sed pulvinar urna.\n\nSed at sem molestie, luctus urna
 in, placerat libero."   
     }
 ]
-'''
-
+```
