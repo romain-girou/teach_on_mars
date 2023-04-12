@@ -1,0 +1,19 @@
+{
+    "@@locale": "en",
+    "homeAppBarTitle": "My Feed",
+    "@homeAppBarTitle": {
+        "description": "Text shown in the AppBar of the home Page"
+    },
+    "pictureAppBarTitle": "Picture",
+    "@pictureAppBarTitle": {
+        "description": "Text shown in the AppBar of the image post Page"
+    },
+    "textAppBarTitle": "Article",
+    "@textAppBarTitle": {
+        "description": "Text shown in the AppBar of the text post Page"
+    },
+    "errorLoading": "An error has occured...",
+    "@errorLoading": {
+        "description": "Texte affiché erreur de chargement données"
+    }
+}

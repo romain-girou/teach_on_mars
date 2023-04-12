@@ -1,0 +1,19 @@
+{
+    "@@locale": "fr",
+    "homeAppBarTitle": "Mon Flux",
+    "@homeAppBarTitle": {
+        "description": "Texte affiché dans l'AppBar de la page d'accueil"
+    },
+    "pictureAppBarTitle": "Image",
+    "@pictureAppBarTitle": {
+        "description": "Texte affiché dans l'AppBar de l'image post Page"
+    },
+    "textAppBarTitle": "Article",
+    "@textAppBarTitle": {
+        "description": "Texte affiché dans l'AppBar de l'article de texte Page"
+    },
+    "errorLoading": "Une erreur est survenue...",
+    "@errorLoading": {
+        "description": "Texte affiché erreur de chargement données"
+    }
+}
