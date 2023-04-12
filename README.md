@@ -1,8 +1,8 @@
 # Teach On Mars - Flutter Interview Project 🚀
 
 Write a simple mobile application composed of a main screen which is a list of widgets and a detail screen.
-There are two kinds of widgets :
-    ● The picture
+There are two kinds of widgets :<br />
+    ● The picture<br />
     ● The post
 
 ---
@@ -52,7 +52,7 @@ Your app MUST:
     ● Show a loader while requesting the API
     ● Show an appropriate error message if the API fails
     ● Go the the detail page when a widget is tapped
-    
+
 Your app MAY (it’s just bonus points, make none of them, only a few or all. You can even add anything else that it’s not mentioned ;-):
     ● Have unit tests
     ● Be responsive and work on a web browser
