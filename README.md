@@ -36,20 +36,8 @@ Here is a sample data returned by this API:
         "id": "64351eb7e35fd",
         "type": 1,
         "title": "Jumping the Gun",
-        "excerpt": "Douglas figured the best way to succeed was
-to do the opposite of what he'd been doing all his life...",
-        "text": "Lorem ipsum dolor sit amet, consectetur
-adipiscing elit. Etiam egestas imperdiet sapien, aliquam cursus
-est vehicula sit amet. Aliquam et eleifend quam. Vestibulum at
-congue lacus. Suspendisse tincidunt sagittis libero, vel iaculis
-nulla porta a. Curabitur ac urna nec velit suscipit commodo.
-Suspendisse potenti. Aliquam cursus velit ut est aliquam
-vehicula. Morbi tempus varius mi volutpat semper. Curabitur
-blandit, quam ut tristique vulputate, odio felis eleifend eros,
-at varius orci sapien non risus. Cras at leo eget nisi suscipit
-congue. Aliquam commodo pretium nisl, quis mollis dui eleifend
-et. Cras sed pulvinar urna.\n\nSed at sem molestie, luctus urna
-in, placerat libero."   
+        "excerpt": "Douglas figured the best way to succeed was to do the opposite of what he'd been doing all his life...",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam egestas imperdiet sapien, aliquam cursus est vehicula sit amet. Aliquam et eleifend quam. Vestibulum at congue lacus. Suspendisse tincidunt sagittis libero, vel iaculis nulla porta a. Curabitur ac urna nec velit suscipit commodo. Suspendisse potenti. Aliquam cursus velit ut est aliquam vehicula. Morbi tempus varius mi volutpat semper. Curabitur blandit, quam ut tristique vulputate, odio felis eleifend eros, at varius orci sapien non risus. Cras at leo eget nisi suscipit congue. Aliquam commodo pretium nisl, quis mollis dui eleifend et. Cras sed pulvinar urna.\n\nSed at sem molestie, luctus urna in, placerat libero."   
     }
 ]
 ```
