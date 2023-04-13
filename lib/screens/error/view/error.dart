@@ -40,7 +40,7 @@ class ErrorScreen extends StatelessWidget {
 										Icon(Icons.refresh),
 										SizedBox(width: 10),
 										Text(
-											'Réessayer',
+											l10n.errorButton,
 											style: TextStyle(
 												fontWeight: FontWeight.bold,
 												fontSize: 18,

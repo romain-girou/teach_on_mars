@@ -2,6 +2,7 @@
 
 import 'package:data_repository/data_repository.dart';
 import 'package:flutter/material.dart';
+import 'package:teach_on_mars/l10n/l10n.dart';
 import 'package:teach_on_mars/screens/home/view/details/text_post_details_screen.dart';
 
 class TextPostScreen extends StatelessWidget {
@@ -10,6 +11,8 @@ class TextPostScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+		final l10n = context.l10n;
+
     return DecoratedBox(
 			decoration: BoxDecoration(
 				color: Theme.of(context).colorScheme.primary,
@@ -65,7 +68,7 @@ class TextPostScreen extends StatelessWidget {
 								child: Padding(
 									padding: EdgeInsets.symmetric(vertical: 10),
 									child: Text(
-										'En savoir plus',
+										l10n.moreDetails,
 										style: TextStyle(
 											fontSize: 14,
 											height: 1.42,

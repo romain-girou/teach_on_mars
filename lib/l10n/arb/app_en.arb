@@ -15,5 +15,13 @@
     "errorLoading": "An error has occured...",
     "@errorLoading": {
         "description": "Texte affiché erreur de chargement données"
+    },
+    "moreDetails": "Read more",
+    "@moreDetails": {
+        "description": "Texte affiché boutton post"
+    },
+    "errorButton": "Retry",
+    "@errorButton": {
+        "description": "Texte affiché boutton erreur"
     }
 }

@@ -1,6 +1,7 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:data_repository/data_repository.dart';
+import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:teach_on_mars/app/view/dark_theme.dart';
@@ -38,7 +39,7 @@ class _AppState extends State<App> {
       supportedLocales: AppLocalizations.supportedLocales,
 			home: BlocProvider<MyDataBloc>(
 				create: (context) => MyDataBloc(
-					dataRepository: DataRepositoryOperations(),
+					dataRepository: DataRepositoryOperations(dio: Dio()),
 				)..add(FetchData()),
 				child: HomeScreen(),
 			)
