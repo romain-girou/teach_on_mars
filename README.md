@@ -6,8 +6,14 @@ There are two kinds of widgets :<br />
 -  The post<br />
 
 ---
+## Code Preview 📸
 
-## Photos 📸
+
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
+
+---
+## Design 📸
 
 <img src="/assets/readme.png" alt="Alt text" title="Pictures App">
 
@@ -42,6 +48,7 @@ Here is a sample data returned by this API:
     }
 ]
 ```
+
 ---
 ## Instructions 🤌
 
