@@ -3,6 +3,8 @@
 ---
 ## Code Preview 📸
 
+---
+## Instructions 👩‍🎓
 
 ![](https://github.com/romain-girou/teach_on_mars/blob/main/assets/preview.gif)
 
