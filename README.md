@@ -1,16 +1,15 @@
 # Teach On Mars - Flutter Interview Project 🚀
 
-Write a simple mobile application composed of a main screen which is a list of widgets and a detail screen.
-There are two kinds of widgets :<br />
--  The picture<br />
--  The post<br />
-
 ---
 ## Code Preview 📸
 
 
 ![](https://github.com/romain-girou/teach_on_mars/blob/main/assets/preview.gif)
 
+Write a simple mobile application composed of a main screen which is a list of widgets and a detail screen.
+There are two kinds of widgets :<br />
+-  The picture<br />
+-  The post<br />
 
 ---
 ## Design 📸
