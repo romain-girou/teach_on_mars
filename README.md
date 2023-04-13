@@ -5,7 +5,7 @@
 
 ![](https://github.com/romain-girou/teach_on_mars/blob/main/assets/preview.gif)
 
-# My feedback 🔥
+### My feedback 🔥
 
 This exercice was very good. Covering all the essentials in order to create a good Flutter App with today's standards. I was totaly new to the Very Good Core template, the Freezed package as well as unit tests. I think I've done a good job coping with those new elements. There is so much more to learn for unit testing, I will most certainly develop more this aspect.<br />
 I am available for any questions either by phone or email :
