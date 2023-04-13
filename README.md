@@ -1,6 +1,12 @@
 # Teach On Mars - Flutter Interview Project 🚀
 
 ---
+## ⚠️⚠️⚠️ IF RUN ON THE WEB ⚠️⚠️⚠️
+
+If you want to run the project on the web, you should request an access by following this link: https://cors-anywhere.herokuapp.com/corsdemo
+
+---
+
 ## Code Preview 📸
 
 ![](https://github.com/romain-girou/teach_on_mars/blob/main/assets/preview.gif)
