@@ -3,10 +3,10 @@
 ---
 ## Code Preview 📸
 
+![](https://github.com/romain-girou/teach_on_mars/blob/main/assets/preview.gif)
+
 ---
 ## Instructions 👩‍🎓
-
-![](https://github.com/romain-girou/teach_on_mars/blob/main/assets/preview.gif)
 
 Write a simple mobile application composed of a main screen which is a list of widgets and a detail screen.
 There are two kinds of widgets :<br />
