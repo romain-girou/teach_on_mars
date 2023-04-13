@@ -17,7 +17,6 @@ https://www.figma.com/file/rwi8v7dlTF0uHptuG9uKzG/Test-technique
 (if you use an account to login (or subscribe, it’s free) you’ll get access to the inspector). The application will use the following REST API to get its data:
     https://interview-dev.teachonmars.com/interview-api.php
 
----
 
 Here is a sample data returned by this API:
 
