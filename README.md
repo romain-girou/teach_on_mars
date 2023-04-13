@@ -9,7 +9,7 @@ There are two kinds of widgets :<br />
 ## Code Preview 📸
 
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/romain-girou/teach_on_mars/blob/main/assets/preview.gif)
 
 
 ---
